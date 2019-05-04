@@ -1,0 +1,298 @@
+m255
+K3
+13
+cModel Technology
+dC:\modeltech64_10.1c\examples
+valu
+VW1H8`<zcXiLKMd8Hi_iC>1
+r1
+31
+IR]H7g1aG5coeecm7_fol?0
+Z0 dC:\Spring\single_cpu
+w1553843026
+8C:/Spring/single_cpu/alu.v
+FC:/Spring/single_cpu/alu.v
+L0 3
+Z1 OL;L;10.1c;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s85 0
+!s100 h;9C;KYU1=R;6Z0ZUckET2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/alu.v|
+!s108 1553916319.701000
+!s107 ctrl_encode_def.v|C:/Spring/single_cpu/alu.v|
+!i10b 1
+vctrl
+V_]VVd5FJE`j5eRoz?EN<d2
+r1
+31
+IbAEbi0LEBi13`=jc2]2_W0
+Z3 dC:\Spring\single_cpu
+w1553846415
+8C:/Spring/single_cpu/ctrl.v
+FC:/Spring/single_cpu/ctrl.v
+L0 4
+R1
+R2
+!s85 0
+!s100 d7B>^VYlAzW<eb0VR<5Cn0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/ctrl.v|
+!s108 1553916319.824000
+!s107 C:/Spring/single_cpu/ctrl.v|
+!i10b 1
+vdm
+VQ5kzjohU1HQB?iGHI7LOU0
+r1
+31
+I0@miFGB0l9Wm=[5U@FoSK1
+R3
+w1551272336
+8C:/Spring/single_cpu/dm.v
+FC:/Spring/single_cpu/dm.v
+L0 3
+R1
+R2
+!s85 0
+!s100 oiT^CJRS:H9C@KI_=[S@G2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/dm.v|
+!s108 1553916320.059000
+!s107 C:/Spring/single_cpu/dm.v|
+!i10b 1
+vEXT
+V<;>E_N0WZjXOmgdkAPRL02
+r1
+31
+IFF9m0`WL`]_QV235B_:Fa3
+R3
+w1551201622
+8C:/Spring/single_cpu/EXT.v
+FC:/Spring/single_cpu/EXT.v
+L0 2
+R1
+R2
+n@e@x@t
+!s85 0
+!s100 7iW?>ef[H04]lBO:7MLZ13
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/EXT.v|
+!s108 1553916320.167000
+!s107 C:/Spring/single_cpu/EXT.v|
+!i10b 1
+vEXT5
+VgAAbU^CDO:4G@R18dSDQl0
+r1
+31
+ICd4D;iLXB2Ga3SOhc6Uj62
+R3
+w1553786357
+8C:/Spring/single_cpu/EXT5.v
+FC:/Spring/single_cpu/EXT5.v
+L0 2
+R1
+R2
+n@e@x@t5
+!s85 0
+!s100 Ng[>S<[R@^GckeQPlKGJ53
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/EXT5.v|
+!i10b 1
+!s108 1553916321.404000
+!s107 C:/Spring/single_cpu/EXT5.v|
+vim
+VkoA3ibJYjK6f9b:B2VJKK0
+r1
+!s85 0
+31
+Ig`^C9@73H=FNQRb>OH5MX1
+R3
+w1551458228
+8C:/Spring/single_cpu/im.v
+FC:/Spring/single_cpu/im.v
+L0 3
+R1
+R2
+!s100 iMZaWnjIUk0U7R37:G5db2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/im.v|
+!s108 1553916320.280000
+!s107 C:/Spring/single_cpu/im.v|
+!i10b 1
+vmux16
+I_Q0?Xe291e`81gfQ3I77T0
+V`6=HBldE>cXC;m]K0;QI>0
+R3
+Z4 w1550765554
+Z5 8C:/Spring/single_cpu/mux.v
+Z6 FC:/Spring/single_cpu/mux.v
+L0 71
+R1
+r1
+31
+Z7 !s108 1553916320.387000
+Z8 !s107 C:/Spring/single_cpu/mux.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/mux.v|
+R2
+!s100 82aJakFz]@lb^>CbWPmW]1
+!i10b 1
+!s85 0
+vmux2
+VT8RWJBjAIeM]>7U=5kBkT1
+r1
+31
+ILFRc9c4]`Sn[ML90G6>@R0
+R3
+R4
+R5
+R6
+L0 2
+R1
+R7
+R8
+R9
+R2
+!s85 0
+!s100 @dz6C65iUb0YRzPIT7NZd3
+!i10b 1
+vmux4
+V@m74j;^3XFJ7>OzQXh6V`0
+r1
+31
+IUT25Xbfhn?i<A3D2TPUW63
+R3
+R4
+R5
+R6
+L0 15
+R1
+R7
+R8
+R9
+R2
+!s85 0
+!s100 QXU7jaU<NVB?`7E:Fm<ed0
+!i10b 1
+vmux8
+Ioi_0z88F0IJR@j[E[;Jf^3
+VOh>X<_n?620Z_^H7^I9KH2
+R3
+R4
+R5
+R6
+L0 40
+R1
+r1
+31
+R7
+R8
+R9
+R2
+!s100 61QP>[U9Yhi^L??QHNZzS2
+!i10b 1
+!s85 0
+vNPC
+V07cIWTg@8<UYhNL1``EES3
+r1
+31
+I;zJ_O=TMBHNzo1X3?G2R41
+R3
+w1553836672
+8C:/Spring/single_cpu/NPC.v
+FC:/Spring/single_cpu/NPC.v
+L0 3
+R1
+R2
+n@n@p@c
+!s85 0
+!s100 T0n7of:hi4FA1gofHZ8GD1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/NPC.v|
+!s108 1553916320.575000
+!s107 ctrl_encode_def.v|C:/Spring/single_cpu/NPC.v|
+!i10b 1
+vPC
+Vz>ZmmiZ`iG:Zc`EOFokET3
+r1
+31
+I6]eOm:_LQ9z0j1U>P<V5]3
+R3
+w1550113688
+8C:/Spring/single_cpu/PC.v
+FC:/Spring/single_cpu/PC.v
+L0 1
+R1
+R2
+n@p@c
+!s85 0
+!s100 <H79lZHC:>Z>cgIDQPk@H0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/PC.v|
+!s108 1553916320.687000
+!s107 C:/Spring/single_cpu/PC.v|
+!i10b 1
+vRF
+VEWJn__zm[8SS3Z@zFLOZT3
+r1
+31
+Im;P[3fd3hHY1Y`Q2>;_JS0
+R3
+w1553838740
+8C:/Spring/single_cpu/RF.v
+FC:/Spring/single_cpu/RF.v
+L0 2
+R1
+R2
+n@r@f
+!s85 0
+!s100 mT5IJBI]:?9`N5FjlPCkH3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/RF.v|
+!s108 1553916320.818000
+!s107 C:/Spring/single_cpu/RF.v|
+!i10b 1
+vsccomp
+VgVBdf]6a]6QJ4FkU3fQ153
+r1
+31
+I0^JkUQg769:_S8<7099PC3
+R3
+w1551458210
+8C:/Spring/single_cpu/sccomp.v
+FC:/Spring/single_cpu/sccomp.v
+L0 1
+R1
+R2
+!s85 0
+!s100 B@md;gC?G0mZ`S0:b:9[c1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/sccomp.v|
+!s108 1553916320.994000
+!s107 C:/Spring/single_cpu/sccomp.v|
+!i10b 1
+vsccomp_tb
+VciK9E@b07zQnz0QWN@GCk0
+r1
+31
+IW8L`NYe54OiKM;fdYb[8N3
+R3
+w1553916290
+8C:/Spring/single_cpu/sccomp_tb.v
+FC:/Spring/single_cpu/sccomp_tb.v
+L0 3
+R1
+R2
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/sccomp_tb.v|
+!s100 nIlAk><29WThT9;Zjl<G;0
+!s108 1553916321.124000
+!s107 C:/Spring/single_cpu/sccomp_tb.v|
+!i10b 1
+vsccpu
+V2nlHBHNd:OILV4c`<oPFP3
+r1
+31
+IER=z=Od_G=BegIzSF`o5_2
+R3
+w1553839128
+8C:/Spring/single_cpu/sccpu.v
+FC:/Spring/single_cpu/sccpu.v
+L0 1
+R1
+R2
+!s85 0
+!s100 TJ8WQ[UH1XOOXOdE`YL^l0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Spring/single_cpu/sccpu.v|
+!s108 1553916321.252000
+!s107 C:/Spring/single_cpu/sccpu.v|
+!i10b 1

@@ -1,0 +1,555 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech_10.1a\examples
+T_opt
+VCfz@;2PJ@z8izjcL:mLI^0
+04 11 4 work pipecomp_tb fast 0
+=1-48bf6bf1c314-5cb01906-302-27ac
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.1a;51
+Z1 dC:\modeltech_10.1a\examples
+vadd
+VC@cb3>WzNZ5@CgM_HYz_O0
+r1
+31
+IhE7mi9iU]hgKXeS9BBWPJ3
+Z2 dC:\Users\zhaojunchen\Desktop\pipelinedcpu
+Z3 w1554625136
+Z4 8C:/pipelinedcpu/cla32.v
+Z5 FC:/pipelinedcpu/cla32.v
+L0 1
+Z6 OE;L;10.1a;51
+Z7 !s108 1556201789.457000
+Z8 !s107 C:/pipelinedcpu/cla32.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/cla32.v|
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s85 0
+!s100 B_?i`Cong?iWSB?>aQG[_2
+valu
+Va9G=oTAHDZLJkMhHXMI7h2
+r1
+31
+INc<X_c585JJLX;GD5iNm02
+R2
+w1554635069
+8C:/pipelinedcpu/alu.v
+FC:/pipelinedcpu/alu.v
+L0 2
+R6
+R10
+!i10b 1
+!s85 0
+!s100 VHYhgBVm0z;:<WB@7kN0K2
+!s108 1556201789.317000
+!s107 pipe_ctrl_encode_def.v|C:/pipelinedcpu/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/alu.v|
+vcla32
+V;YmOl]B4]ojRcd=`fOCz_0
+r1
+31
+Ion6mWQfNTR3SQk9Z75@KE1
+R2
+R3
+R4
+R5
+L0 83
+R6
+R7
+R8
+R9
+R10
+!i10b 1
+!s85 0
+!s100 Az3:2ea`>`5]d4[fRG0Pa1
+vcla_16
+VX^`f4;]3OcI`oA[5gbjPJ3
+r1
+31
+I;7`;B6]mf^_[@k`o]ZoAK2
+R2
+R3
+R4
+R5
+L0 56
+R6
+R7
+R8
+R9
+R10
+!i10b 1
+!s85 0
+!s100 Cm4>3me9o5fToe[]eb]g>0
+vcla_2
+V5K;kWgC`2A6ZTCbHkM=U10
+r1
+31
+IelAkkToz[k`Y;FzPiAOkU0
+R2
+R3
+R4
+R5
+L0 19
+R6
+R7
+R8
+R9
+R10
+!i10b 1
+!s85 0
+!s100 FY6z8Z5YNeiMW5_TYmO[h3
+vcla_32
+VRoE4aAbLOgcan>n`zWbGB3
+r1
+31
+I38O5ggZ[6fJVGWQ5nh^Vj0
+R2
+R3
+R4
+R5
+L0 68
+R6
+R7
+R8
+R9
+R10
+!i10b 1
+!s85 0
+!s100 8m0AQXi@o9WCL<]d49@m:1
+vcla_4
+VoJFRnWX1akReI50Fi`IDT1
+r1
+31
+I:]YSQeGP55[VK12oMcHNz0
+R2
+R3
+R4
+R5
+L0 31
+R6
+R7
+R8
+R9
+R10
+!i10b 1
+!s85 0
+!s100 `^_SN^BJ?YPF5Tj?A=__W1
+vcla_8
+VBjE6N>8=:hogd4helN[zi2
+r1
+31
+IUmB436m<`1@TjZZ;5b=;F0
+R2
+R3
+R4
+R5
+L0 43
+R6
+R7
+R8
+R9
+R10
+!i10b 1
+!s85 0
+!s100 nWRFI9Peij[zT:EoR4mP=1
+vdffe32
+V5POP^gb2VTl4V_4nLR4R@1
+r1
+31
+IQ_MRMUGLa57?AD[@KQ9B>3
+R2
+w1554447793
+8C:/pipelinedcpu/dffe32.v
+FC:/pipelinedcpu/dffe32.v
+L0 1
+R6
+R10
+!i10b 1
+!s85 0
+!s100 SEK<N;5<z2nSVdYDXEJaP3
+!s108 1556201789.723000
+!s107 C:/pipelinedcpu/dffe32.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/dffe32.v|
+vdm
+VQ5kzjohU1HQB?iGHI7LOU0
+r1
+31
+IUi>^GK?e9dbjP5H^^hgC;0
+R2
+w1554439345
+8C:/pipelinedcpu/dm.v
+FC:/pipelinedcpu/dm.v
+L0 3
+R6
+R10
+!i10b 1
+!s85 0
+!s100 ;MRU?6GK@g]YXSU2^Yam10
+!s108 1556201789.833000
+!s107 C:/pipelinedcpu/dm.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/dm.v|
+vg_p
+Vo0FN`A@EWkN1ILD>nQNWH2
+r1
+31
+I[[IRKjAn;>SeK8^Z2baNP2
+R2
+R3
+R4
+R5
+L0 9
+R6
+R7
+R8
+R9
+R10
+!i10b 1
+!s85 0
+!s100 kNC4R36iT`9M6cTBjLORM1
+vim
+!i10b 1
+VkoA3ibJYjK6f9b:B2VJKK0
+r1
+!s85 0
+31
+ISh@GH8U3C=OP4oFVgjTM[0
+R2
+w1554456933
+8C:/pipelinedcpu/im.v
+FC:/pipelinedcpu/im.v
+L0 3
+R6
+R10
+!s100 6FYROaUEcFofVf17aVjha1
+!s108 1556201789.957000
+!s107 C:/pipelinedcpu/im.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/im.v|
+vmux16
+InD6?[<clWQAb[nNha8Ynd3
+V`6=HBldE>cXC;m]K0;QI>0
+R2
+Z11 w1554289155
+Z12 8C:/pipelinedcpu/mux.v
+Z13 FC:/pipelinedcpu/mux.v
+L0 71
+R6
+r1
+31
+Z14 !s108 1556201790.067000
+Z15 !s107 C:/pipelinedcpu/mux.v|
+Z16 !s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/mux.v|
+R10
+!s100 ?ECQ1j_EL@7^@ZdY7^;6D1
+!i10b 1
+!s85 0
+vmux2
+VT8RWJBjAIeM]>7U=5kBkT1
+r1
+31
+I;2IQZ`ZXBF<;bN`S8UL;K0
+R2
+R11
+R12
+R13
+L0 2
+R6
+R14
+R15
+R16
+R10
+!i10b 1
+!s85 0
+!s100 G63j><nERd<9CZkk<n2=^0
+vmux4
+V@m74j;^3XFJ7>OzQXh6V`0
+r1
+31
+Izdd84]YfjScom?W_43zUJ1
+R2
+R11
+R12
+R13
+L0 15
+R6
+R14
+R15
+R16
+R10
+!i10b 1
+!s85 0
+!s100 nbUHL=l_jBJg]2E^DD8:f0
+vmux8
+IXIZiM_mCVXEXNe6:Ij:>I0
+VOh>X<_n?620Z_^H7^I9KH2
+R2
+R11
+R12
+R13
+L0 40
+R6
+r1
+31
+R14
+R15
+R16
+R10
+!s100 8@50ZG_Vg[I]:;nkUg30G3
+!i10b 1
+!s85 0
+vPC
+IbEc>GWPNb[=ifFbY`fjBG2
+V5M2af1FQ9bciKgC0ld>Y22
+R2
+w1554627752
+8C:/pipelinedcpu/PC.v
+FC:/pipelinedcpu/PC.v
+L0 1
+R6
+r1
+31
+R10
+n@p@c
+!s100 QXfCSB>@aa?IziLnW0U9Q0
+!s108 1556201790.286000
+!s107 C:/pipelinedcpu/PC.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/PC.v|
+!i10b 1
+!s85 0
+vpipecomp
+V7USKbOBeikjNmG2EUd_Ck2
+r1
+31
+IIU1RlROJQL<iiZ8HI9LfV0
+R2
+w1555228092
+8C:/pipelinedcpu/pipecomp.v
+FC:/pipelinedcpu/pipecomp.v
+L0 1
+R6
+R10
+!i10b 1
+!s85 0
+!s100 iFeJiGcjBCV5^ZD6@nEY^1
+!s108 1556201790.520000
+!s107 C:/pipelinedcpu/pipecomp.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipecomp.v|
+vpipecomp_tb
+V_]?Pnb84Lg<D<G6^D`5b30
+r1
+31
+I`PPUZ:zEMW]TN?gCDi[hL2
+R2
+w1555838889
+8C:/pipelinedcpu/pipecomp_tb.v
+FC:/pipelinedcpu/pipecomp_tb.v
+L0 3
+R6
+R10
+!i10b 1
+!s85 0
+!s100 W65WKVON>XGAQicZ0dong2
+!s108 1556201790.879000
+!s107 C:/pipelinedcpu/pipecomp_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipecomp_tb.v|
+vpipedereg
+VdA2kF8^VT;Z5Bh8F016Gh1
+r1
+31
+IMk8eI[<aI:0lGXMQ7C>?c3
+R2
+w1554635049
+8C:/pipelinedcpu/pipedereg.v
+FC:/pipelinedcpu/pipedereg.v
+L0 1
+R6
+R10
+!i10b 1
+!s85 0
+!s100 Jf^8Z10NE?4<laInVGHZE2
+!s108 1556201791.067000
+!s107 C:/pipelinedcpu/pipedereg.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipedereg.v|
+vpipeemreg
+Vk_22U9ldAB6ez[a^V`?RJ0
+r1
+31
+I:@7okTA2Z`9E`i?VbH<T81
+R2
+w1554374063
+8C:/pipelinedcpu/pipeemreg.v
+FC:/pipelinedcpu/pipeemreg.v
+L0 1
+R6
+R10
+!i10b 1
+!s85 0
+!s100 z4FDl=c;NRWdDCk74zzba2
+!s108 1556201791.192000
+!s107 C:/pipelinedcpu/pipeemreg.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipeemreg.v|
+vpipeexe
+V5lbDPf9VM[ZRRDLBF1OUH1
+r1
+31
+IYJI2BL6@2O9X2NFjH?O4:1
+R2
+w1555047700
+8C:/pipelinedcpu/pipeexe.v
+FC:/pipelinedcpu/pipeexe.v
+L0 1
+R6
+R10
+!i10b 1
+!s85 0
+!s100 =^0dMGU[2VMiNLaOj^?>50
+!s108 1556201791.301000
+!s107 C:/pipelinedcpu/pipeexe.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipeexe.v|
+vpipeid
+VhUHXm=dl=^g`Ml>Gi6YT01
+r1
+31
+IG07Q=`iZK7OZ[eeiib@8Z2
+R2
+w1555738220
+8C:/pipelinedcpu/pipeid.v
+FC:/pipelinedcpu/pipeid.v
+L0 1
+R6
+R10
+!i10b 1
+!s85 0
+!s100 <C5[aNcaj28ng7PPSTViC1
+!s108 1556201791.426000
+!s107 C:/pipelinedcpu/pipeid.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipeid.v|
+vpipeidcu
+Vol8k=mz:Q@WI<9>hhVRAc2
+r1
+31
+IPASK5MSPXF9j^bOBcoWT12
+R2
+w1555740151
+8C:/pipelinedcpu/pipeidcu.v
+FC:/pipelinedcpu/pipeidcu.v
+L0 3
+R6
+R10
+!i10b 1
+!s85 0
+!s100 QHeUXOhCiJ744Qo=1Hg;;2
+!s108 1556201791.551000
+!s107 pipe_ctrl_encode_def.v|C:/pipelinedcpu/pipeidcu.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipeidcu.v|
+vpipeif
+VMGUGh]TmN;?>O>b@=;NSh2
+r1
+31
+I3ddJiQTVI8mSX5M_]L9dN1
+R2
+w1554627101
+8C:/pipelinedcpu/pipeif.v
+FC:/pipelinedcpu/pipeif.v
+L0 1
+R6
+R10
+!i10b 1
+!s85 0
+!s100 oIjU?@37:T]e@zmCm3<M?2
+!s108 1556201791.661000
+!s107 C:/pipelinedcpu/pipeif.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipeif.v|
+vpipeir
+VNA3idRg?g9ELEa<lVniF40
+r1
+31
+Ii5`_2WciT:8EG8J3W1nG61
+R2
+w1554636024
+8C:/pipelinedcpu/pipeir.v
+FC:/pipelinedcpu/pipeir.v
+L0 2
+R6
+R10
+!i10b 1
+!s85 0
+!s100 F^z8^Ua0h5B]cYg?zTUBV0
+!s108 1556201791.786000
+!s107 C:/pipelinedcpu/pipeir.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipeir.v|
+vpipelinedcpu
+VIN7IMna535kKM[LKaSS]o2
+r1
+31
+I;>CC92>[GCL<L:N6EAYnm2
+R2
+w1555228981
+8C:/pipelinedcpu/pipelinedcpu.v
+FC:/pipelinedcpu/pipelinedcpu.v
+L0 1
+R6
+R10
+!i10b 1
+!s85 0
+!s100 5NNbQ[XNMeORJR2;oNk==0
+!s108 1556201791.911000
+!s107 C:/pipelinedcpu/pipelinedcpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipelinedcpu.v|
+vpipemwreg
+V?_QTchRGQVg<><eg=A6g32
+r1
+31
+I=[aaZg4L_0X5TZVb<lM[m3
+R2
+w1554625291
+8C:/pipelinedcpu/pipemwreg.v
+FC:/pipelinedcpu/pipemwreg.v
+L0 1
+R6
+R10
+!i10b 1
+!s85 0
+!s100 N@3S[?J[[`koWQ=SSVL3d0
+!s108 1556201792.036000
+!s107 C:/pipelinedcpu/pipemwreg.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipemwreg.v|
+vpipepc
+VfP<W55?cZe9QVU<ZPCNTh2
+r1
+31
+I>C5NzQhJ>QV35_9A5ke@<0
+R2
+w1554440989
+8C:/pipelinedcpu/pipepc.v
+FC:/pipelinedcpu/pipepc.v
+L0 1
+R6
+R10
+!i10b 1
+!s85 0
+!s100 <W[8U@E2GWX;H=j0jIH;A0
+!s108 1556201792.176000
+!s107 C:/pipelinedcpu/pipepc.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/pipepc.v|
+vRF
+VfO3g=G6Y9^30CQKlU7Pda1
+r1
+31
+IKdoBzF>KcQeY9Fn8iRaR93
+R2
+w1554800375
+8C:/pipelinedcpu/RF.v
+FC:/pipelinedcpu/RF.v
+L0 2
+R6
+R10
+n@r@f
+!i10b 1
+!s85 0
+!s100 Ac_AWDz5NE:IV_=G]nZe51
+!s108 1556201792.286000
+!s107 C:/pipelinedcpu/RF.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/pipelinedcpu/RF.v|
